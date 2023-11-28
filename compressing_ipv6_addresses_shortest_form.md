@@ -1,4 +1,4 @@
-# TIPS ON HOW TO COMPRESS AN IPV6 TO ITS SHORTEST FORM
+# COMPRESS AN IPV6 TO ITS SHORTEST FORM
 IPV6 usually has 8 sections/parts (similar to Octets in IPV4 addresses) when in its longest form. Each Section usually has 4 letters, numbers or a combination of both. Each section is separated by a full colon
 
 EXAMPLE IPV6 in Longest Form -  **1234:ABCD:4321:DCBA:2341:BACD:1342:ACBD** equivalent to  **SECTION1:SECTION2:SECTION3:SECTION4:SECTION5:SECTION6:SECTION7:SECTION8**
