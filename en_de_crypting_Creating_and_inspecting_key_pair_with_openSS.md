@@ -1,5 +1,5 @@
 
- ## learn how to generate RSA private and public key pairs using the OpenSSL utility.
+ ## Learn how to generate RSA private and public key pairs using the OpenSSL utility.
 
  Credits: Google IT Security and Defence against the Digital dark arts.
 
