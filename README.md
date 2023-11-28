@@ -1,2 +1,2 @@
 # Cybersecurity
-A personal repo with CyberSec resources, notes and tips.
+A personal repo with Cyber Security resources, notes and tips.
